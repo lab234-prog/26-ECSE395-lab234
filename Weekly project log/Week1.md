@@ -1,5 +1,5 @@
-<h1>**Week One Report**</h1>
-<h3>*Project Progress*</h3>
+<h1>Week One Report</h1>
+<h3>Project Progress</h3>
 
 1. Formed Team (Team 2) *Teammates: Zachary Blue, Aedan Reagan* 8/26/26
 2. Organized problems by difficulty to select project problem (**Assigned the baby stairs project**) 8/26/26
