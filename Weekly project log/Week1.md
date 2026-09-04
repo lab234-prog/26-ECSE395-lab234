@@ -7,3 +7,4 @@
 4. Sent Email to stakeholders after approval from Professor Fu and teammates 8/28/26
 5. Filled out and signed both Team Contract & locker form 8/28/26
 6. Made github repo for project 8/28/26
+7. Sent Zoom link to shareholders for need-finding meeting 8/29/26
