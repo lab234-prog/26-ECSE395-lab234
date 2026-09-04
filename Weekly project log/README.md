@@ -5,4 +5,5 @@ This repository is a weekly log and the purpose of this repository is to keep wo
 | Weeks   | What we did                                                                             |
 | ------- | --------------------------------------------------------------------------------------- |
 | Week 1  | Figuring out Github                                                                     |
+| Week 2 | Figuring out ESP32s                                                                     |
 | Week #  | ...and so on                                                                            |
