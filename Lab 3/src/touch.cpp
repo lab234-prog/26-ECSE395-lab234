@@ -1,7 +1,8 @@
-/*#include <Arduino.h>
+#include <Arduino.h>
 
 // function prototype
 float voltage(float analogvalue);
+#define LED_PIN 13
 
 // Put your potentiometer pin assignment here
 const int sensorPin = 0;
@@ -9,6 +10,7 @@ const int sensorPin = 0;
 
 void setup() {
     Serial.begin(115200);
+    pinMode(LED_PIN, OUTPUT);
 }
 
 void loop() {
@@ -16,7 +18,17 @@ void loop() {
     //9.11.2026 the line now reads the sensorVoltage from the voltage function LAB234
     int sensorValue=analogRead(POT_PIN);
     float sensorVoltage=voltage(sensorValue);
-    Serial.println(sensorVoltage);
+    
+    if (sensorVoltage>0.3){
+        Serial.println("Touch detected!");
+        digitalWrite(LED_PIN, HIGH);//turns LED on if no touch. LAB234
+    }
+    else{
+        Serial.println("No touch detected...");
+        digitalWrite(LED_PIN, LOW);//turns LED off if no touch. LAB234
+    }
+    //sets the min voltage for detection 0.3v, and reports that touch was detected if so. Otherwise no touch is detected. LAB234
+    
     delay(50); 
 }
 
@@ -30,4 +42,4 @@ float voltage(float analogvalue){
 
     delay(50);
     return voltage;
-}*/
+}
