@@ -6,4 +6,5 @@ This repository is a weekly log and the purpose of this repository is to keep wo
 | ------- | --------------------------------------------------------------------------------------- |
 | Week 1  | Figuring out Github                                                                     |
 | Week 2 | Figuring out ESP32s                                                                     |
+| Week 3 | Stakeholder needs and learning sensors                                             |
 | Week #  | ...and so on                                                                            |
