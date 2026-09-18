@@ -1,5 +1,7 @@
 /*#include <Arduino.h>
 
+//copied from TT Motor.cpp, made analogWrite a sin function LAB234 9/18/2026
+
 // TODO: Define your pins
 // Hint: Look at your wiring. Which pins did you use?
 const int MOTOR_B_1A = A1;

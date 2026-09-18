@@ -4,7 +4,7 @@
 
 // Define the servo and the pin it is connected to, what is your servo pin?
 Servo myServo;
-const int servoPin = A0;
+const int servoPin = A0;// changed servo pin to A0 LAB234 9/18/2026
 
 // Define the minimum and maximum pulse widths for the servo
 const int minPulseWidth = 500; // 0.5 ms
@@ -20,7 +20,7 @@ void setup() {
 
 void loop() {
   // Rotate the servo from 0 to 180 degrees
-  for (int angle = 0; angle <= 90; angle++) {
+  for (int angle = 0; angle <= 90; angle++) {// changed angle to 0 to 90 degrees LAB234 9/18/2026
     int pulseWidth;
     // the map function is a puction that maps 0 degrees to 500 pulse width, and 180 degrees to 2500 pulse width
     // map(angle, min angle, max angle, min pulse width, max pulse width)
@@ -30,12 +30,12 @@ void loop() {
   }
 
   // Rotate the servo from 180 to 0 degrees
-  for (int angle = 90; angle >= 0; angle--) {
+  for (int angle = 90; angle >= 0; angle--) {// changed angle to 90 to 0 degrees LAB234 9/18/2026
     int pulseWidth;
     // the map function is a puction that maps 0 degrees to 500 pulse width, and 180 degrees to 2500 pulse width
     // map(angle, min angle, max angle, min pulse width, max pulse width)
     pulseWidth = map(angle, 0, 180, minPulseWidth, maxPulseWidth);
     myServo.writeMicroseconds(pulseWidth);
-    delay(20);
+    delay(20);// changed delay to 20ms LAB234 9/18/2026
   }
 }*/
