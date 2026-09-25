@@ -8,4 +8,6 @@ This repository is a weekly log and the purpose of this repository is to keep wo
 | Week 2 | Figuring out ESP32s                                                                     |
 | Week 3 | Stakeholder needs and learning sensors                                             |
 | Week 4 | Needfinding presentation and actuator lab                                             |
+| Week 5  | Second meeting with stakeholders & Sensor-actuator lab
+|
 | Week #  | ...and so on                                                                            |
