@@ -2,6 +2,13 @@
 <h3>Project Progress</h3>
 
 1. Brainstorming doc & Presentation finalized 9/21/2026
-2. Concept design presentation w/stakeholders 9/21/2026
+Meeting notes:
+- Probably want common features:
+- wifi/bluetooth
+- Buzzer
+- Adjusting POT
+- Avoid ultrasonic sensor, motors, etc.
+
+2. Concept design presentation w/stakeholders 9/21/2026 (recorded on Zoom,)
 3. obtained baby gate specs (see https://www.amazon.com/dp/B001OC5UMQ?th=1) 9/21/2026
 4. finished lab 5 9/25/2026
