@@ -10,4 +10,6 @@ This repository is a weekly log and the purpose of this repository is to keep wo
 | Week 4 | Needfinding presentation and actuator lab                                             |
 | Week 5  | Second meeting with stakeholders & Sensor-actuator lab
 |
+| Week 6  | Project Selection and GANTT Chart
+|
 | Week #  | ...and so on                                                                            |
