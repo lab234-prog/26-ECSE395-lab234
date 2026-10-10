@@ -12,4 +12,6 @@ This repository is a weekly log and the purpose of this repository is to keep wo
 |
 | Week 6  | Project Selection and GANTT Chart
 |
+| Week 7  | Initial Prototype and First Team Check in
+|
 | Week #  | ...and so on                                                                            |
