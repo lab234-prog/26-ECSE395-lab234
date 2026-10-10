@@ -3,3 +3,4 @@
 
 1. Met with teammates to finish System Architecture and Prototype Plan (see 10_5_2026.md in Meeting Notes) 10/5/2026
 2. Finished System Architecture and Prototype Plan System Architecture and Prototype Plan 10/5/2026
+3. Met with professor to discuss team progress 10/9/2026
