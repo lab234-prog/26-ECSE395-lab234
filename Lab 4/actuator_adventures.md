@@ -22,11 +22,11 @@ Third assignment working with the ESP32.
 9. set up servo motor circuit
 10. take photo and upload to github (see servo circuit.jpg)
 11. upload servo motor.cpp to microcontroller and observe behavior, recording changes according to code adjustments
-- changing minPulseWidth changes the minimum amount of amount of time it can take to send a "move" pulse (changed angle to 0 to 90 degrees, )
-- changing maxPulseWidth changes the maximum amount of amount of time it can take to send a "move" pulse
-- changing setPeriodHertz seems to make the loop alternate between a quick rotation and a slow one if set higher.
-- changing Rotation range obviously changes the range the servo moves
-- changing the delay changes the speed of the servo.
+- changing minPulseWidth changes the minimum amount of amount of time it can take to send a "move" pulse (changed minPulseWidth to 5, angle took a bit longer to change)
+- changing maxPulseWidth changes the maximum amount of amount of time it can take to send a "move" pulse (changed minPulseWidth to 1500, angle took a bit longer to change)
+- changing setPeriodHertz seems to make the loop alternate between a quick rotation and a slow one if set higher.(switched to 500 Hz,switched from a short to a slow rotation)
+- changing Rotation range obviously changes the range the servo moves (changed to 90, range decreased)
+- changing the delay changes the speed of the servo.(changed delay to 20 from 15, time delay increased and speed decreased)
 12. fill out Servo Motor Random.cpp
 13. record behavior from code and upload
 14. Do extra credit servo code under Servo Motor Code.cpp
