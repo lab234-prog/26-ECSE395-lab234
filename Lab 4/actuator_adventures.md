@@ -13,16 +13,16 @@ Third assignment working with the ESP32.
 3. Set up DC power supply to 0.15A and 3V
 4. take a photo of the circuit, and put photo in actuator adventures.md (see TT circuit.jpg)
 5. Run TT Motor Rotate.cpp on the ESP32 and record behavior, changing variables one at a time.
-- changing the delay makes the motor run for a different period of time
-- changing writeanalog changes the speed of the motor
-- switching writeAnalog values flips the motor's direction
+- changing the delay makes the motor run for a different period of time (changed from 5000 to 3000, the time delay was reduced)
+- changing writeanalog changes the speed of the motor (changed analogWrite(MOTOR_B_1B, 255) to analogWrite(MOTOR_B_1B, 128), slowing the motor down)
+- switching writeAnalog values flips the motor's direction (switched analogWrite(MOTOR_B_1B, -128), the motor's spin changed direction)
 6. make the TT motor rotate according to the specifications in TT Motor Rotate.
 7. record and upload video on canvas
 8. For extra credit, make TT motor EC file for a changing speed on the TT motor.
 9. set up servo motor circuit
 10. take photo and upload to github (see servo circuit.jpg)
 11. upload servo motor.cpp to microcontroller and observe behavior, recording changes according to code adjustments
-- changing minPulseWidth changes the minimum amount of amount of time it can take to send a "move" pulse
+- changing minPulseWidth changes the minimum amount of amount of time it can take to send a "move" pulse (changed angle to 0 to 90 degrees, )
 - changing maxPulseWidth changes the maximum amount of amount of time it can take to send a "move" pulse
 - changing setPeriodHertz seems to make the loop alternate between a quick rotation and a slow one if set higher.
 - changing Rotation range obviously changes the range the servo moves
