@@ -11,5 +11,5 @@ This repository is a weekly log and the purpose of this repository is to keep wo
 | Week 5  | Second meeting with stakeholders & Sensor-actuator lab|
 | Week 6  | Project Selection and GANTT Chart|
 | Week 7  | Initial Prototype and First Team Check in|
-| Week 8  | Initial Prototype and First Team Check in|
+| Week 8  | Prototype design for 2&3|
 | Week #  | ...and so on                                                                            |
