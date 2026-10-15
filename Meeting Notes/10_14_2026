@@ -1,0 +1,1420 @@
+Zachary Blue
+I just wanna also make sure… like, I just wanna also make sure that, you guys just… I know this isn't, like, a group thing, but just making sure you guys are, like, doing version control, like, throughout the week, not just, like, on Friday only, or, like, not just, like…
+One day.
+Lucas Benson
+Lucas Benson
+00:18
+you.
+Zachary Blue
+Zachary Blue
+00:18
+Oh, like, just using, like, GitHub and, like…
+Lucas Benson
+Lucas Benson
+00:21
+Oh, yeah.
+Zachary Blue
+Zachary Blue
+00:22
+Right after this meeting, like, you go on, like, I don't know, if you, like, use VS Code, and then, like, you update, like, the weekly, oh, what do we do, and then, like, push those changes, I think.
+Lucas Benson
+Lucas Benson
+00:30
+Yeah, okay.
+Zachary Blue
+Zachary Blue
+00:32
+That's helpful.
+Okay.
+Lucas Benson
+Lucas Benson
+00:34
+Are you getting, like, commentary on that, or?
+Zachary Blue
+Zachary Blue
+00:37
+Yeah, he said he was, like, taking… he's gonna start, like, taking off points for people who, like, just, like, do, like, one push at, like, the end of the week of, like, everything, rather than, like, oh, like…
+If we have, like, meetings during the week, but then we, like, record it and push it later, he might start taking off points. That's what I was talking about.
+just.
+Lucas Benson
+Lucas Benson
+00:58
+I actually submitted my, Github link ahead of time,
+Zachary Blue
+Zachary Blue
+01:04
+That's actually. Yeah.
+Excuse me.
+Lucas Benson
+Lucas Benson
+01:07
+And I think I'm gonna have to start doing that, so, what I…
+Zachary Blue
+Zachary Blue
+01:11
+Is there one for this week, Lucas? Yeah.
+Lucas Benson
+Lucas Benson
+01:14
+Yeah, we gate. Control S.
+Zachary Blue
+Zachary Blue
+01:17
+So things… I'm not gonna be here on Friday.
+Lucas Benson
+Lucas Benson
+01:21
+Okay.
+Zachary Blue
+Zachary Blue
+01:22
+Which is not… which is not ideal, but… Let's see…
+I'm actually going back to California for…
+Lucas Benson
+Lucas Benson
+01:31
+Three.
+Zachary Blue
+Zachary Blue
+01:32
+A startup thingy.
+Oh, okay.
+Lucas Benson
+Lucas Benson
+01:36
+Yeah, yeah, very cool.
+Zachary Blue
+Zachary Blue
+01:37
+Let's see.
+Lucas Benson
+Lucas Benson
+01:38
+Sell me this pen.
+Zachary Blue
+Zachary Blue
+01:40
+Tell me this.
+God, I've seen that so many times.
+No, no, no, no, sell me this pen.
+Lucas Benson
+Lucas Benson
+01:51
+Yeah.
+Zachary Blue
+Zachary Blue
+01:52
+see…
+Lucas Benson
+Lucas Benson
+01:53
+Positively.
+Zachary Blue
+Zachary Blue
+01:54
+Yeah, I should low-key just upload my GitHub link right now, because it's like…
+I don't know why they make us do that every time, like, come on.
+I guess.
+I'll just submit it, I guess. Sure, let's do that.
+Yeah. Okay, so…
+Lucas Benson
+Lucas Benson
+02:08
+That was fine, I think, so…
+Zachary Blue
+Zachary Blue
+02:10
+Yeah.
+So the cool thing is… Pretty much coded all that,
+Yup.
+Lucas Benson
+Lucas Benson
+02:39
+And I am updating my, docs right now.
+On 5… oh, right, we're doing this meeting.
+Zachary Blue
+Zachary Blue
+02:49
+Hey, there's Aiden.
+Aedan Reagans
+Aedan Reagans
+02:51
+well.
+Lucas Benson
+Lucas Benson
+02:52
+Very.
+Zachary Blue
+Zachary Blue
+02:53
+Yeah.
+Alright.
+So, we're gonna open up WitchDoc.
+We're gonna open up.
+Lucas Benson
+Lucas Benson
+03:00
+It's the one you have open. Yeah, it's the, system architecture and prototype.
+Zachary Blue
+Zachary Blue
+03:07
+That was all. Come on.
+Lucas Benson
+Lucas Benson
+03:09
+Okay, yeah. So, yeah, right now, the main comment he had for, like, physical architecture, I got rid of that, because that was just get rid of commentary.
+Anyone else?
+Zachary Blue
+Zachary Blue
+03:21
+Just clean this up.
+Lucas Benson
+Lucas Benson
+03:23
+Which…
+Zachary Blue
+Zachary Blue
+03:25
+Functional architecture, part B, he said.
+Lucas Benson
+Lucas Benson
+03:27
+Architecture.
+Zachary Blue
+Zachary Blue
+03:28
+Just needs to be… Much more clean.
+So, let me…
+Lucas Benson
+Lucas Benson
+03:37
+Text Lex.
+Okay, and then I can… we can… we should probably make some of the lines, like, darker, or…
+Zachary Blue
+Zachary Blue
+03:44
+Yeah, the yellow's a bit hard to see. They're a bit thin. It's hard to see where it connects to the box. Like, we kind of just made it go in.
+Are you editing the drawing right now, Lucas?
+Lucas Benson
+Lucas Benson
+03:56
+Yeah.
+Zachary Blue
+Zachary Blue
+03:57
+Okay, so I kind of went ahead.
+And… I'd… literally did all the software. Okay.
+Which is kind of nice.
+Took me about… actually, it was not that bad.
+Because I had it really detailed out in the software section in this doc.
+So it's literally just string, like, if statements and whatever.
+Which was good. And then, other than that, I didn't get to test it, though, because I was working on it not in Glennon, so…
+Lucas Benson
+Lucas Benson
+04:30
+Yeah.
+Zachary Blue
+Zachary Blue
+04:31
+Let's see… But I basically do, like.
+enough work for Friday, so right now, Lucas and Aiden, we have…
+kind of a CAD design going? We… do we…
+Lucas Benson
+Lucas Benson
+04:44
+Yeah.
+Zachary Blue
+Zachary Blue
+04:45
+Okay.
+Lucas Benson
+Lucas Benson
+04:46
+I'm working on the box right now, I should, I do have an exam…
+tomorrow, so, I will have it done either today or tomorrow.
+Zachary Blue
+Zachary Blue
+04:58
+That is excellent. And that's fine, yeah, that's actually good. And then, oh yeah, Aiden, update, I will not be here on Friday.
+I will be back in the big California.
+Aedan Reagans
+Aedan Reagans
+05:11
+Enjoy that. Enjoy that.
+Zachary Blue
+Zachary Blue
+05:13
+Yes, sir.
+Aedan Reagans
+Aedan Reagans
+05:14
+Oh, that's nice.
+Zachary Blue
+Zachary Blue
+05:16
+But, so let's see… do we have anything due this Friday?
+Lucas Benson
+Lucas Benson
+05:20
+We have the, like, update, but that doesn't really count.
+Zachary Blue
+Zachary Blue
+05:23
+Oh, is it like that same, like, update as last time?
+Lucas Benson
+Lucas Benson
+05:27
+Yeah.
+Zachary Blue
+Zachary Blue
+05:28
+Okay, and then, do you think what we wanted to do with this meeting is, do we want to go over, like, presentation stuff for next?
+Lucas Benson
+Lucas Benson
+05:35
+Yeah, so I want to look at the, previous doc, and then also go over, the presentation requirements.
+Zachary Blue
+Zachary Blue
+05:45
+Let me find that assignment.
+Lucas Benson
+Lucas Benson
+05:46
+Okay. Yeah.
+Zachary Blue
+Zachary Blue
+05:48
+For this doc though, was it just mainly the functional architecture?
+Lucas Benson
+Lucas Benson
+05:52
+It was the…
+Zachary Blue
+Zachary Blue
+05:53
+prototypes.
+Lucas Benson
+Lucas Benson
+05:55
+Functional architecture I got. I fixed the physical architecture interface definitions and prototype strategy.
+Zachary Blue
+Zachary Blue
+06:02
+Prototype strategy was a prototype section. I think it was a prototype section. Yeah.
+Lucas Benson
+Lucas Benson
+06:06
+Prototype section. How are the state 3 centers?
+Validation plan…
+Aedan Reagans
+Aedan Reagans
+06:16
+I see the midterm group presentation.
+Lucas Benson
+Lucas Benson
+06:21
+Yes, that should be.
+Zachary Blue
+Zachary Blue
+06:22
+Midterm group presentation.
+Aedan Reagans
+Aedan Reagans
+06:24
+Hmm.
+5, 5, 5… Okay.
+Okay.
+Zachary Blue
+Zachary Blue
+06:32
+Oh my goodness.
+Aedan Reagans
+Aedan Reagans
+06:33
+Okay, it's… It's decently… Decently sized, for sure.
+Zachary Blue
+Zachary Blue
+06:42
+Oh my goodness, that is a lot of stuff.
+Aedan Reagans
+Aedan Reagans
+06:45
+Decently sized.
+Zachary Blue
+Zachary Blue
+06:48
+Oh, do we decide if we're doing it
+Like, in the lab, or like, in the…
+Lucas Benson
+Lucas Benson
+06:53
+We were doing it in the classroom.
+Zachary Blue
+Zachary Blue
+06:56
+Okay.
+Lucas Benson
+Lucas Benson
+06:56
+Yeah.
+Aedan Reagans
+Aedan Reagans
+06:58
+I think that's why… that's why we're kind of…
+I don't know, I was gonna say something, no.
+Lucas Benson
+Lucas Benson
+07:04
+Going over it now, yeah.
+Aedan Reagans
+Aedan Reagans
+07:06
+I was gonna say something stupid.
+Lucas Benson
+Lucas Benson
+07:07
+Yeah. Oh.
+Aedan Reagans
+Aedan Reagans
+07:08
+Yeah.
+Lucas Benson
+Lucas Benson
+07:11
+I don't want that in the meeting notes.
+Aedan Reagans
+Aedan Reagans
+07:14
+How do you guys want to… break this up.
+Zachary Blue
+Zachary Blue
+07:22
+Let's see, there is the presentation checklist.
+And that's about once you, yeah, about like.
+Aedan Reagans
+Aedan Reagans
+07:30
+Five sections?
+Zachary Blue
+Zachary Blue
+07:32
+5, or maybe it's, like, 6, technically, because Section 5 is kind of long. So we could just do, like, 2, 2.
+Aedan Reagans
+Aedan Reagans
+07:42
+I like that.
+Lucas Benson
+Lucas Benson
+07:42
+Benson.
+Yeah.
+I like that.
+Aedan Reagans
+Aedan Reagans
+07:46
+Yeah.
+Are there any ones that you guys specifically would like to do?
+Lucas Benson
+Lucas Benson
+07:53
+Okay.
+Zachary Blue
+Zachary Blue
+07:54
+The evaluation plan.
+Lucas Benson
+Lucas Benson
+07:55
+notes thing.
+Oh.
+Zachary Blue
+Zachary Blue
+07:58
+I can just take the entire evaluation plan. Honestly… Is that okay?
+Lucas Benson
+Lucas Benson
+08:03
+I was thinking… You might be good for the, storyline.
+Zachary Blue
+Zachary Blue
+08:10
+Will.
+Lucas Benson
+Lucas Benson
+08:11
+Zach.
+Zachary Blue
+Zachary Blue
+08:13
+Oh, okay, okay, cool. So the storyline, and then… Oh, you know what, maybe we can break it up, like, kind of nice. Like, one person doesn't…
+I think.
+Yeah, so I can do storyline, I guess. That works.
+Aedan Reagans
+Aedan Reagans
+08:37
+Hmm.
+Lucas Benson
+Lucas Benson
+08:42
+I can do the design overview.
+Aedan Reagans
+Aedan Reagans
+08:50
+I'll do specifications, and then…
+Muzali.
+Prototyping… evaluation plan, and I guess the two parts of evaluation plan, if you're gonna do it like that?
+Lucas Benson
+Lucas Benson
+09:07
+I can do prototyping.
+Aedan Reagans
+Aedan Reagans
+09:10
+Okay, so that's, that's two for you.
+And then… Zach, I guess we could split up evaluation plan?
+Kind of like, where's that, like, weird… In dense space.
+And the thing.
+Lucas Benson
+Lucas Benson
+09:28
+Okay.
+Mmm.
+Yeah,
+Aedan Reagans
+Aedan Reagans
+09:33
+Yeah, like, where it says, like, what is your high-level protocol?
+I probably like that could maybe be the start of a new one.
+Lucas Benson
+Lucas Benson
+09:43
+It's actually an even 8, so if you guys wanna do, like, 4 each, that might be good.
+Aedan Reagans
+Aedan Reagans
+09:49
+Oh, yeah, it is. Yeah.
+So you control your… Okay, so let's, yeah, let's, let's cut it off then.
+Lucas Benson
+Lucas Benson
+09:59
+2.
+Aedan Reagans
+Aedan Reagans
+10:00
+Yeah, let's cut it off at independent variables or whatever.
+Lucas Benson
+Lucas Benson
+10:04
+Okay.
+Okay, cool.
+Aedan Reagans
+Aedan Reagans
+10:08
+Alright, so that's… So.
+Lucas Benson
+Lucas Benson
+10:10
+Who wants to do eval plan one and eval plan two?
+Aedan Reagans
+Aedan Reagans
+10:15
+Oh.
+I was saying, I'll do… I'll do two.
+Lucas Benson
+Lucas Benson
+10:23
+Okay, cool.
+I have this outlined in, The, 10-14-26.
+Cool.
+Aedan Reagans
+Aedan Reagans
+10:37
+Nice, nice, nice.
+So.
+Lucas, you… you said that you're… well, I saw the CAD drawing.
+You would be able to get that to me, like, Friday-ish?
+Lucas Benson
+Lucas Benson
+10:54
+Oh, yeah.
+Aedan Reagans
+Aedan Reagans
+10:55
+Okay.
+I'll… I'll look to print that, though, on Friday.
+Lucas Benson
+Lucas Benson
+11:01
+Cool. I hope to have it done before Friday, that way,
+We can print it and have it in class.
+Or something.
+Aedan Reagans
+Aedan Reagans
+11:11
+Yeah.
+Lucas Benson
+Lucas Benson
+11:14
+Cool.
+Okay.
+Sounds good.
+Okay, and then…
+Cool, so we have that out of the way. Let's go back to the, what is it?
+Zachary Blue
+Zachary Blue
+11:29
+I'm so sorry, guys, Susan came to my door.
+Lucas Benson
+Lucas Benson
+11:33
+Oh, good.
+Zachary Blue
+Zachary Blue
+11:34
+Sorry, guys, I was, like, muted. I was mudded the whole time.
+Lucas Benson
+Lucas Benson
+11:37
+Oh, okay.
+Zachary Blue
+Zachary Blue
+11:38
+So, how do we split up the, this stuff?
+Lucas Benson
+Lucas Benson
+11:42
+Okay, yeah, so I put it in, 10-14-2026. Aiden is doing specs and, the second part of the eval plan. So that's, we split it in half, because they're… Yes.
+Zachary Blue
+Zachary Blue
+11:56
+Great.
+Lucas Benson
+Lucas Benson
+11:58
+And then I'm doing design overview and prototyping.
+And then, you're doing storyline and evaluation plan 1.
+Zachary Blue
+Zachary Blue
+12:06
+Let's bring this… okay, cool.
+Sign closures… okay.
+Oh…
+This is very interesting.
+This is good. Okay, this is good. Anything else that we need to.
+Yeah.
+Lucas Benson
+Lucas Benson
+12:27
+So…
+Zachary Blue
+Zachary Blue
+12:28
+So you actually work?
+Lucas Benson
+Lucas Benson
+12:29
+We should.
+Zachary Blue
+Zachary Blue
+12:30
+Yes.
+Lucas Benson
+Lucas Benson
+12:31
+I was thinking, we might want to go back to the, system architecture and prototype plan, just to…
+go through and get, like, the functional arc… I got the physical architecture, the functional architecture, we could probably.
+Aedan Reagans
+Aedan Reagans
+12:50
+It could probably take me, like, maybe… an hour, but I could… I could redo it, kind of with his thoughts in mind.
+Zachary Blue
+Zachary Blue
+13:01
+awesome.
+Aedan Reagans
+Aedan Reagans
+13:01
+I would probably just, like, the only things that I would fix would be instead of using that, like…
+Lucas Benson
+Lucas Benson
+13:09
+And.
+Aedan Reagans
+Aedan Reagans
+13:09
+Whatever line, bendy line, I would just, just switch up where a lot of these things are and just, I could start doing that now.
+Lucas Benson
+Lucas Benson
+13:16
+Okay, yeah, I'll help.
+Cool. Yeah. Honestly, the arrow thing was pretty helpful.
+Aedan Reagans
+Aedan Reagans
+13:25
+The… wait, actually, let me look… like, what did you do? Let me look at… let me look at… let me look what you got going on there.
+So, what's going on?
+Lucas Benson
+Lucas Benson
+13:35
+The gate.
+Aedan Reagans
+Aedan Reagans
+13:37
+Okay. Alright. I think it's more just about, like, where I have everything. I can… I can rearrange.
+Lucas Benson
+Lucas Benson
+13:43
+you Okay, and then…
+Aedan Reagans
+Aedan Reagans
+13:46
+And his only comments were, like.
+Looks-wise, it wasn't, like, conceptually this is wrong.
+Okay, just looks.
+Lucas Benson
+Lucas Benson
+13:57
+Well, he says, sound functional logic, however, text lacks explanation for all blocks, and refers to blocks that are not in the table, such as lower area motion. It appears to describe a state machine rather than the block diagram provided, a functional diagram.
+interfaces lack directionality, so an arrow would be good. Label fonts for functional architecture interfaces are too small and illegible. Yellow lines are difficult to see. Those darker lines are helpful.
+Zachary Blue
+Zachary Blue
+14:33
+Yeah, Lucas, did you just do that? I said a couple darker lines on the.
+Lucas Benson
+Lucas Benson
+14:37
+Yeah, yeah, I'm adding those, but we might want to switch to arrows, yeah.
+Zachary Blue
+Zachary Blue
+14:41
+Yeah, Aries would be good.
+Lucas Benson
+Lucas Benson
+14:43
+Yeah, many yellow interfaces intersect blocks, which can be confused as inputs or outputs. Also, some blocks are cropped off.
+I don't know. Okay.
+Aedan Reagans
+Aedan Reagans
+14:55
+I'll just… yeah, yeah.
+Lucas Benson
+Lucas Benson
+14:57
+Okay, and then while you're doing that, we can go over, Zach, you and I can go over the interface definitions.
+Because, that was another thing, ok.
+Integrated architecture, rather than how your team will work in a modular way.
+Okay,
+Zachary Blue
+Zachary Blue
+15:19
+He's in his comments, yeah.
+Lucas Benson
+Lucas Benson
+15:21
+Yeah.
+Zachary Blue
+Zachary Blue
+15:22
+Okay.
+Lucas Benson
+Lucas Benson
+15:26
+One physical diagram.
+Aedan Reagans
+Aedan Reagans
+15:32
+And this is a critique of, like, what part? This one?
+Lucas Benson
+Lucas Benson
+15:35
+This, this thing that I was reading was, interface definitions, and then we can go over prototype strategy.
+Wait, did you already revise the prototype strategy?
+or…
+Zachary Blue
+Zachary Blue
+15:53
+I don't think we… oh, I don't think we touched that, actually.
+Lucas Benson
+Lucas Benson
+15:56
+Okay, because I know we… I saw something.
+That was discussing the prototype.
+Maybe it was, yeah, okay. It was, verification and validation.
+We can copy-paste that.
+Zachary Blue
+Zachary Blue
+16:12
+Into the prototype section of this doc, you mean?
+Lucas Benson
+Lucas Benson
+16:15
+Yeah.
+Zachary Blue
+Zachary Blue
+16:16
+I think we can, yeah.
+I think I worked on it.
+Lucas Benson
+Lucas Benson
+16:20
+Because, prototype… where's the prototype thing?
+Prototype.
+Okay.
+Aedan Reagans
+Aedan Reagans
+16:27
+Alright, so…
+Lucas Benson
+Lucas Benson
+16:30
+Okay.
+Heading 2.
+Okay.
+Cool.
+Zachary Blue
+Zachary Blue
+16:46
+Is it just like, what prototypes we're building, kind of thing? Is that what we just have to pay some prototypes?
+Lucas Benson
+Lucas Benson
+16:51
+Yes, yes, that is.
+Zachary Blue
+Zachary Blue
+16:52
+Because I did the options. So, oh yeah, nice, nice, nice. You did that.
+Lucas Benson
+Lucas Benson
+16:58
+Yeah, those were in the, verification and validation.
+Zachary Blue
+Zachary Blue
+17:04
+Yeah. Honestly, yeah.
+Lucas Benson
+Lucas Benson
+17:06
+It works perfectly.
+Zachary Blue
+Zachary Blue
+17:07
+definitely.
+1.
+Lucas Benson
+Lucas Benson
+17:09
+Cool. And, wait, you said you're not gonna be here, Friday?
+Zachary Blue
+Zachary Blue
+17:13
+On Friday, yes.
+Lucas Benson
+Lucas Benson
+17:14
+unfriendly.
+Zachary Blue
+Zachary Blue
+17:15
+So, on Friday… so I have, actually.
+Lucas Benson
+Lucas Benson
+17:20
+Do the code.
+Zachary Blue
+Zachary Blue
+17:21
+So I can just send that. I'll send that right here. Okay.
+So what I suggest doing is, we have, like, these lab folders, you guys can create a new folder kind of thing, called, like.
+call it, like, Baby K prototype, and then just run the main.cpp file. Okay. I'm gonna… here, I'll just paste the code.
+On it.
+There's… so there's some things that maybe look like…
+hard to explain, but I did a lot of it during Lab 5, so, like, some of it is, like,
+ultrasonic has, like, a little bit of error, so I create, like, a median function, for example, to, like, smooth out the error. And then… so there's a couple functions in there, just, like, give it a read.
+Lucas Benson
+Lucas Benson
+18:14
+Cool, and you've got, like.
+Zachary Blue
+Zachary Blue
+18:15
+comments.
+Lucas Benson
+Lucas Benson
+18:15
+Explain stuff, right?
+Zachary Blue
+Zachary Blue
+18:17
+Yeah, I got, like…
+Got a couple, like, well, like, the pin, like, pin mode, maybe I should have more comments, but, like…
+Lucas Benson
+Lucas Benson
+18:24
+Okay, well, we… well, we can work on that.
+Zachary Blue
+Zachary Blue
+18:28
+There's some comments, yeah, there's some comments.
+Right here. Punch, punch, punch, basically.
+Lucas Benson
+Lucas Benson
+18:32
+comments.
+Zachary Blue
+Zachary Blue
+18:33
+Yeah, yeah, yeah, yeah. But…
+Lucas Benson
+Lucas Benson
+18:35
+Yeah, or something. I don't know. Okay, yeah, cool.
+Zachary Blue
+Zachary Blue
+18:40
+Let me paste it.
+Lucas Benson
+Lucas Benson
+18:42
+Alright.
+Aedan Reagans
+Aedan Reagans
+18:55
+And then… Excuse me. Whenever we do look to… because we're looking to resubmit this, right?
+Lucas Benson
+Lucas Benson
+19:03
+Yeah, yeah.
+Aedan Reagans
+Aedan Reagans
+19:04
+I guess we will… I'll look into what we need to do on, like, the resubmission block.
+And then change that.
+Lucas Benson
+Lucas Benson
+19:13
+Recipient lock?
+Aedan Reagans
+Aedan Reagans
+19:14
+Priest.
+Yeah, there's a… usually whenever, for these things, at least for these classes, like, there's a revision block at the bottom.
+Lucas Benson
+Lucas Benson
+19:23
+Oh.
+Aedan Reagans
+Aedan Reagans
+19:23
+Because it's not an original document anymore.
+So we'll probably have to put, like.
+the revision, and then the date that we revised, and then all this other stuff. So, I'll just look back into whatever
+Convention they have, and… Let's see what's going on there.
+Zachary Blue
+Zachary Blue
+19:41
+I kind of pasted a lot of code into the 10 slash 14, but… Should be everything.
+Aedan Reagans
+Aedan Reagans
+19:50
+I can see it.
+Zachary Blue
+Zachary Blue
+19:52
+It's just, like, print on the bottom, and then, other than that, I just… Use some logic.
+And also I created a lot of variables.
+Cause… Yeah.
+Lucas Benson
+Lucas Benson
+20:07
+Oh.
+Zachary Blue
+Zachary Blue
+20:08
+But yeah, got the arm state, got motion alert, contact alert, like… It's all good.
+And then also, if you guys… if any of the hardware falls out, this is a great place to reference it.
+Because I have the, pins all set, so…
+Aedan Reagans
+Aedan Reagans
+20:28
+Okay.
+Zachary Blue
+Zachary Blue
+20:30
+So you can always make sure where something goes on ESP32. But for the most part, you can ignore, like.
+It's like a get distance function I wrote, like, it's…
+It does, like, very little, like, it's not actually, like…
+part of… like, you can ignore this stuff, like, just, like, kind of get, like, there's a lot of conditions, like, oh, if the state equals ARM, and this, then… yeah.
+But I think… I think this is good.
+Lucas Benson
+Lucas Benson
+21:00
+Sorry, where did you post that? Oh.
+Zachary Blue
+Zachary Blue
+21:01
+I actually posted it in a 10 slash 14. Just make sure, like, try to, like,
+So yeah, so basically, like, if one of you two on Friday could make a new folder, in, like, VS Code or something, and then if you guys could run this using Platform.io on the hardware that we have, so the whole breadboard we have wired up.
+To test if it works, that would be great. And then make sure when you're testing if it works, know what that means. So, like, oh, like, when does the ultrasonic, when does it turn green, when does it turn yellow, that kind of thing. And make sure to test it with the battery, that's the main thing. We want to make sure it works on the battery.
+So yeah, but Aiden and I got that working today on the battery, so it should… you should just be able to upload it, and then plug in the battery, and then yeah.
+But.
+Lucas Benson
+Lucas Benson
+21:46
+Perfect.
+Zachary Blue
+Zachary Blue
+21:47
+Yeah.
+Yes.
+Aedan Reagans
+Aedan Reagans
+21:52
+Yeah.
+Zachary Blue
+Zachary Blue
+21:53
+So that's that.
+And then the other thing is, let's see, so right now, Aiden is gonna do the, functional architecture.
+Aedan Reagans
+Aedan Reagans
+22:01
+Yes.
+Zachary Blue
+Zachary Blue
+22:02
+Yes. And then…
+We already pasted it in the prototype, and then now we're trying to figure out how we're going to resubmit it, or…
+Lucas Benson
+Lucas Benson
+22:11
+And we have to do the interfaces.
+Zachary Blue
+Zachary Blue
+22:14
+Let me open that comment that he left for us.
+Lucas Benson
+Lucas Benson
+22:19
+Yeah.
+Because that, I think, was where we lost.
+Ups.
+Is there a… integrated
+Your face.
+Let's see.
+Zachary Blue
+Zachary Blue
+22:55
+This is, never mind, actually, I think we're fine on that.
+Interfaces should describe the integrated architecture around it.
+Oh, interesting.
+Lucas Benson
+Lucas Benson
+23:28
+Okay, so this is… Oh.
+Zachary Blue
+Zachary Blue
+23:32
+So that's this section.
+Lucas Benson
+Lucas Benson
+23:40
+So is it?
+Saying that it's, like…
+Zachary Blue
+Zachary Blue
+23:49
+I think it's saying, hold up.
+Lucas Benson
+Lucas Benson
+23:55
+Because, like, it…
+So, there aren't… like, okay, so the mechanical… is more, like…
+Zachary Blue
+Zachary Blue
+24:19
+Maybe I was… Boom.
+Oh, I see. So I think basically, like, what it was is…
+So this is my bad, I wrote this section, but basically, I was assuming that, like.
+I think I was, like, thinking, like, oh, like, how is our team gonna divide work into these three things?
+So that's, like, kind of, like, a modular way of, like… but when you're saying, like, oh, like, how your team will work in, like, a modular way.
+And then we also, like, was referencing them, but, like, not from the, like, the diagram kind of thing. So…
+Lucas Benson
+Lucas Benson
+25:01
+Yeah, I don't, I don't see, like, how it's, like, splitting the
+like, thing in, like, our group. I mean…
+Zachary Blue
+Zachary Blue
+25:09
+Oh, it's like… so basically, like, it's just, like, split between mechanical, electrical, and software.
+Lucas Benson
+Lucas Benson
+25:13
+Right.
+Zachary Blue
+Zachary Blue
+25:14
+And he was probably thinking, like, oh, like, that's how they're gonna be splitting up the work, like, they're gonna split into, like.
+Lucas Benson
+Lucas Benson
+25:18
+Oh, okay, okay.
+Zachary Blue
+Zachary Blue
+25:20
+That's the work. And also the big thing is he was saying, like, we never point to the diagram. So,
+Like.
+Lucas Benson
+Lucas Benson
+25:29
+Okay, so it's gotta work with the…
+Zachary Blue
+Zachary Blue
+25:30
+Mention has to be a block in a functional and physical diagram. So that that just did not happen, I think.
+Like…
+Lucas Benson
+Lucas Benson
+25:40
+So, Should you, okay, so.
+for the mechanical, I mean, we don't have too many mechanical components. We could say that that
+The, information.
+Is… Like… transferred electrically to the ESP32 from our PIR, our vibration sensor, our ultrasonic sensor.
+Zachary Blue
+Zachary Blue
+26:11
+Would that be natural, Lucas?
+Lucas Benson
+Lucas Benson
+26:13
+That see, that's, that's the, that's the problem. You know, it's it.
+Zachary Blue
+Zachary Blue
+26:17
+Exactly.
+Lucas Benson
+Lucas Benson
+26:18
+It's electrical, but it could also be information or software.
+Zachary Blue
+Zachary Blue
+26:23
+I think it could be more like this, like, Mechanical could be like, oh, like,
+Lucas Benson
+Lucas Benson
+26:28
+Like, the buzzer would be a mechanical component.
+Zachary Blue
+Zachary Blue
+26:31
+I think we also have to, like, reference, like, oh, like, if we label…
+If we can, like, label the functional and the physical system architecture as, like, figure 1, figure 2, and then, like, just, like…
+reference those while explaining the interface definitions, that'd be good. So like,
+I guess… Yes, here.
+Should I just delete everything and then we, like, rewrite it kind of thing? Is that okay, or should we…
+Yeah, I think, yeah.
+Lucas Benson
+Lucas Benson
+27:05
+So… Mechanical. Boxing gate.
+Zachary Blue
+Zachary Blue
+27:08
+So he wants this section to section.
+Lucas Benson
+Lucas Benson
+27:14
+It's, yeah, it's literally just define the interfaces between major.
+Zachary Blue
+Zachary Blue
+27:18
+All the blocks in the function.
+Lucas Benson
+Lucas Benson
+27:21
+Yeah,
+Zachary Blue
+Zachary Blue
+27:25
+That's all it is.
+Lucas Benson
+Lucas Benson
+27:27
+I mean, box and gate, sensor and box, battery.
+Zachary Blue
+Zachary Blue
+27:30
+Electrical, electrical… Okay, so, like, here, let's say…
+Lucas Benson
+Lucas Benson
+27:39
+Oh, mechanical, a mechanical input. So we would just.
+Zachary Blue
+Zachary Blue
+27:44
+Yeah, so Lucas, if you could just talk about, right here in the mechanical, like, sort of how the device, like, okay, like, oh, it stays, like, screwed on using clamps, so, like, if you look at, like…
+Lucas Benson
+Lucas Benson
+27:56
+I think that's… that's not the thing we should… like, I think the thing we should focus on is the, like, the physical… so, like.
+Yes, that is the physical stuff, but that's not really a part of the system. That's the mounting. The system is, like, pressing a button to turn the thing on.
+You know, having the buzzer… the main thing, the main mechanical interfaces are probably the buzzer and… The power button.
+Zachary Blue
+Zachary Blue
+28:28
+Yeah, so if we could be like, oh, the PIR sensor is, like, on the hallway side, like, it's angled down at crawling height, and, like, being like, oh, the ultrasonic sensor is on the same side as well, but it's angled, like, upwards, so it can, like, only see, like, a standing adult.
+Saying, like, the vibration sensor just, like, inside,
+you know, inside the… our enclosed, like, device, and it's, like, against the gate, so we can, like, feel the gate shaking, and then being like, oh, like, the 9-volt battery.
+and the on and off button, like, are on the back side, so, like, the stair side, where Ariana can reach them. If you could say, like, just all that in Canva, I think that's sort of what they want, yeah.
+Lucas Benson
+Lucas Benson
+29:09
+Yeah, I think that's… so yeah, so I'm starting that.
+Zachary Blue
+Zachary Blue
+29:11
+I can write the electrical. Electrical is probably really similar to what we had before.
+Lucas Benson
+Lucas Benson
+29:17
+Yeah.
+Zachary Blue
+Zachary Blue
+29:18
+So, like, the guy…
+Lucas Benson
+Lucas Benson
+29:19
+Essentially, electrical is, like, interacting with both the information and the… or the software and the mechanical.
+Zachary Blue
+Zachary Blue
+29:27
+you.
+Lucas Benson
+Lucas Benson
+29:29
+Like, it's kind of the in-between point for SOC.
+Zachary Blue
+Zachary Blue
+29:32
+learning.
+Lucas Benson
+Lucas Benson
+29:33
+mechanical.
+Zachary Blue
+Zachary Blue
+29:35
+I don't know.
+Two, the three, six years ago.
+And then the ESP… 32s… Out there.
+I'll put Howard's D and D module.
+Buzzer, and then… CIR… Operation sensors. Let me just see if they.
+digital signal to… and Esp. 32.
+Put that in, and then… Wondersome.
+Ms. Ultrasound.
+Lucas Benson
+Lucas Benson
+30:23
+Okay, wait, another thing was that, we might just want to, cause he mentioned, as well.
+Timeliness. Oh, wait, that's different. So yeah, for professionalism, text should be a narrative that explains the architecture to the reader using the figure.
+Okay, so.
+So, Section D should be written in a paragraph. So I can, I can write that paragraph.
+Oh.
+Zachary Blue
+Zachary Blue
+30:52
+So he's saying that it should be written in paragraph.
+Lucas Benson
+Lucas Benson
+30:55
+Yes.
+Zachary Blue
+Zachary Blue
+30:56
+Okay.
+Lucas Benson
+Lucas Benson
+30:57
+So, I can… I can describe how that… I can re… I can redo this, if you want.
+Zachary Blue
+Zachary Blue
+31:02
+Okay. That sounds good.
+Cool. Yeah.
+Lucas Benson
+Lucas Benson
+31:06
+And then C needs to be turned into.
+Hold on.
+Zachary Blue
+Zachary Blue
+31:20
+Does it say we need to make it into a paragraph? Hold on.
+Lucas Benson
+Lucas Benson
+31:23
+Yeah, it's under professionalism and communication.
+Okay. Yeah, so I… Turn C into a paragraph,
+And then I can… sorry, I'm deleting all your work.
+Zachary Blue
+Zachary Blue
+31:49
+No, no, it's okay.
+Lucas Benson
+Lucas Benson
+31:51
+Section…
+Zachary Blue
+Zachary Blue
+31:53
+It doesn't have to be one paragraph. I think you can be paragraphs. So I wrote.
+Lucas Benson
+Lucas Benson
+31:57
+Yeah, yeah.
+Zachary Blue
+Zachary Blue
+31:58
+Yeah, so I'll just keep writing my paragraph. Yeah.
+Lucas Benson
+Lucas Benson
+32:01
+Okay, cool. Yeah, yeah, yeah. Do…
+Zachary Blue
+Zachary Blue
+32:03
+Yeah.
+Okay. For the mechanical, you know exactly, pretty straightforward.
+Let's see.
+And then, Lucas, when you're, talking about the mechanical stuff, yeah, like, yeah, just, like, make sure to talk about where the, like, orientation and, like, placement of the, stuff on our device.
+Lucas Benson
+Lucas Benson
+34:11
+Yeah.
+Zachary Blue
+Zachary Blue
+34:13
+Yeah.
+Lucas Benson
+Lucas Benson
+34:18
+Er, I, I.
+Interfaces are the con.
+Techs that allow, or contracts that allow systems to be developed in parallel.
+And are one of the most important outcomes of the system architecture. So…
+Okay, you know, I have another doc of, like, useful information from this that, like, we, that they might not want, but we might want. I think I'm gonna copy, like, the, like.
+The these and put it there.
+Zachary Blue
+Zachary Blue
+37:30
+Yeah, sounds good.
+Lucas Benson
+Lucas Benson
+37:31
+And that is.
+Let's see.
+Zachary Blue
+Zachary Blue
+37:36
+You have to leave in, like, 5 minutes to…
+Lucas Benson
+Lucas Benson
+37:39
+Yeah, I'm gonna.
+Zachary Blue
+Zachary Blue
+37:39
+75X, yeah.
+Lucas Benson
+Lucas Benson
+37:40
+I'm gonna leave too. Cool.
+Zachary Blue
+Zachary Blue
+37:43
+I'm just gonna finish this paragraph real quick.
+And all kinds of…
+Lucas Benson
+Lucas Benson
+37:49
+Okay, and then… yeah, and then… We can look at.
+the software… After… oh, okay, perfect.
+Okay, I think we should be good.
+Alright, so…
+Zachary Blue
+Zachary Blue
+38:07
+Resubmit this system architecture one. Is this gonna be Aiden?
+Lucas Benson
+Lucas Benson
+38:11
+Honestly, once you're done, would you mind?
+Zachary Blue
+Zachary Blue
+38:18
+Is this targeted at me or Aiden?
+Lucas Benson
+Lucas Benson
+38:21
+Zach.
+Zachary Blue
+Zachary Blue
+38:22
+Oh, okay, good.
+Lucas Benson
+Lucas Benson
+38:22
+Or wait, no.
+Zachary Blue
+Zachary Blue
+38:23
+No.
+Lucas Benson
+Lucas Benson
+38:23
+Are you still working?
+Zachary Blue
+Zachary Blue
+38:24
+He's still working on the, thing.
+Okay. Yes, okay. So…
+Aiden, if you could, once you're done, do the resubmission. We really appreciate that. But otherwise, I think we can call it from here. One quick thing for everyone here, make sure you guys, update your weekly.
+I think it's week 8.md now, and then just quickly version control and just say what we did in this meeting.
+But yeah, that's about it. I'm going to end the meeting now.
+Lucas Benson
+Lucas Benson
+39:01
+Could you also send the, like,
+Zachary Blue
+Zachary Blue
+39:04
+Do we all get the transcript, or just me?
+Lucas Benson
+Lucas Benson
+39:07
+I don't know. I think it's just you and Aiden for some reason. I don't know.
+Zachary Blue
+Zachary Blue
+39:11
+I'll get it. If I get it, then I'll send it immediately.
+Lucas Benson
+Lucas Benson
+39:15
+Yeah, okay.
+Zachary Blue
+Zachary Blue
+39:16
+Yeah, okay.
+Lucas Benson
+Lucas Benson
+39:17
+Cool. Thanks.
+Zachary Blue
+Zachary Blue
+39:18
+Okay, I will end the meeting now. Okay, enjoy your guys' rest of your day. See you later.
+Lucas Benson
+Lucas Benson
+39:23
+Bye bye.
