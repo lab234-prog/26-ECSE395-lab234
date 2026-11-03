@@ -14,4 +14,5 @@ This repository is a weekly log and the purpose of this repository is to keep wo
 | Week 8  | Prototype design for 2&3|
 | Week 9  | Preparation for Midterm Presentation|
 | Week 10  | Midterm Presentation|
+| Week 11  | Minimally Viable Prototype|
 | Week #  | ...and so on                                                                            |
