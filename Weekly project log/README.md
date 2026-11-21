@@ -17,4 +17,5 @@ This repository is a weekly log and the purpose of this repository is to keep wo
 | Week 11  | Minimally Viable Prototype|
 | Week 12  | Validation Testing|
 | Week 13| Data Analysis and Starting on the Final|
+| Week 14| Final Report and Validation Revision|
 | Week #  | ...and so on                                                                            |
